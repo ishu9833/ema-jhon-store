@@ -1,0 +1,8 @@
+.header-section {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link:hover {
+  background-color: gray;
+  border-radius: 8px;
+}
